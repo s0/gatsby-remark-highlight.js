@@ -1,0 +1,24 @@
+{
+  "name": "gatsby-remark-highlight.js",
+  "version": "0.0.1",
+  "description": "Highlight code in Markdown files using highlight.js (via lowlight)",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "syntax-highlighting",
+    "markdown",
+    "remark",
+    "highlight",
+    "lowlight"
+  ],
+  "main": "index.js",
+  "repository": "https://github.com/samlanning/gatsby-remark-tree-sitter",
+  "author": "Sam Lanning <sam@samlanning.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "gatsby": "^2.0.0"
+  },
+  "dependencies": {
+    "remark-highlight.js": "^5.1.1"
+  }
+}
